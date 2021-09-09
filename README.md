@@ -1,12 +1,12 @@
-# Nodejs boiler script
+# Nodejs script boiler
 
-## Installation
+## Install
 
 ```bash
 $ yarn
 ```
 
-## Start Script
+## Start
 
 ```bash
 $ yarn start
